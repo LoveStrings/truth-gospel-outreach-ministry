@@ -16,9 +16,6 @@ body {
 }
 .logo{
     border-radius: 50%;
-  
-    width: 130px;
-    height: 150px;
 }
 
 @media (min-aspect-ratio: 16/9) {
